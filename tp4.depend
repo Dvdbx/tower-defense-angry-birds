@@ -1,0 +1,349 @@
+# depslib dependency file v1.0
+1585585341 source:c:\users\sudav\desktop\tp4_etape4\ennemi.c
+	"ennemi.h"
+	"utilitaire.h"
+
+1585585175 c:\users\sudav\desktop\tp4_etape4\ennemi.h
+	<allegro.h>
+
+1585581753 c:\users\sudav\desktop\tp4_etape4\utilitaire.h
+	<allegro.h>
+
+1585585175 source:c:\users\sudav\desktop\tp4_etape4\listeennemis.c
+	"listeEnnemis.h"
+	"utilitaire.h"
+
+1585479929 c:\users\sudav\desktop\tp4_etape4\listeennemis.h
+	"ennemi.h"
+
+1585586204 source:c:\users\sudav\desktop\tp4_etape4\main.c
+	<allegro.h>
+	<time.h>
+	"ennemi.h"
+	"listeEnnemis.h"
+	"acteurs.h"
+	"listeActeurs.h"
+	"collision.h"
+	"utilitaire.h"
+
+1585585175 source:c:\users\sudav\desktop\tp4_etape4\utilitaire.c
+	<stdlib.h>
+	"utilitaire.h"
+
+1585573882 c:\users\sudav\desktop\tp4_etape4\acteurs.h
+	<allegro.h>
+
+1585574497 c:\users\sudav\desktop\tp4_etape4\listeacteurs.h
+	"acteurs.h"
+
+1585585175 source:c:\users\sudav\desktop\tp4_etape4\listeacteurs.c
+	"listeActeurs.h"
+	"utilitaire.h"
+
+1585586253 source:c:\users\sudav\desktop\tp4_etape4\acteurs.c
+	"acteurs.h"
+	"utilitaire.h"
+
+1585585175 source:c:\users\sudav\desktop\tp4_etape4\collision.c
+	"collision.h"
+	"utilitaire.h"
+
+1585576188 c:\users\sudav\desktop\tp4_etape4\collision.h
+	"listeActeurs.h"
+	"listeEnnemis.h"
+
+1585653685 source:c:\users\sudav\desktop\projet allegro\acteurs.c
+	"acteurs.h"
+	"utilitaire.h"
+
+1585653378 c:\users\sudav\desktop\projet allegro\acteurs.h
+	<allegro.h>
+
+1586189433 c:\users\sudav\desktop\projet allegro\utilitaire.h
+	<allegro.h>
+
+1586181890 source:c:\users\sudav\desktop\projet allegro\collision.c
+	"collision.h"
+	"utilitaire.h"
+
+1585576188 c:\users\sudav\desktop\projet allegro\collision.h
+	"listeActeurs.h"
+	"listeEnnemis.h"
+
+1585574497 c:\users\sudav\desktop\projet allegro\listeacteurs.h
+	"acteurs.h"
+
+1586706347 c:\users\sudav\desktop\projet allegro\listeennemis.h
+	"ennemi.h"
+
+1586533909 c:\users\sudav\desktop\projet allegro\ennemi.h
+	<allegro.h>
+
+1586687620 source:c:\users\sudav\desktop\projet allegro\ennemi.c
+	<stdio.h>
+	"ennemi.h"
+	"utilitaire.h"
+
+1585585175 source:c:\users\sudav\desktop\projet allegro\listeacteurs.c
+	"listeActeurs.h"
+	"utilitaire.h"
+
+1586534640 source:c:\users\sudav\desktop\projet allegro\listeennemis.c
+	"listeEnnemis.h"
+	"utilitaire.h"
+
+1586801413 source:c:\users\sudav\desktop\projet allegro\main.c
+	<allegro.h>
+	<time.h>
+	"ennemi.h"
+	"listeEnnemis.h"
+	"acteurs.h"
+	"listeActeurs.h"
+	"defense.h"
+	"collision.h"
+	"utilitaire.h"
+	"terrain.h"
+
+1586444634 source:c:\users\sudav\desktop\projet allegro\utilitaire.c
+	<stdlib.h>
+	"utilitaire.h"
+
+1586366378 source:c:\users\sudav\desktop\projet allegro\defense.c
+	"defense.h"
+	"utilitaire.h"
+
+1586365245 c:\users\sudav\desktop\projet allegro\defense.h
+	"listeActeurs.h"
+	<allegro.h>
+
+1585653685 source:c:\users\sudav\desktop\allegro 2.0\projet allegro\acteurs.c
+	"acteurs.h"
+	"utilitaire.h"
+
+1585653378 c:\users\sudav\desktop\allegro 2.0\projet allegro\acteurs.h
+	<allegro.h>
+
+1585581753 c:\users\sudav\desktop\allegro 2.0\projet allegro\utilitaire.h
+	<allegro.h>
+
+1585585175 source:c:\users\sudav\desktop\allegro 2.0\projet allegro\collision.c
+	"collision.h"
+	"utilitaire.h"
+
+1585576188 c:\users\sudav\desktop\allegro 2.0\projet allegro\collision.h
+	"listeActeurs.h"
+	"listeEnnemis.h"
+
+1585574497 c:\users\sudav\desktop\allegro 2.0\projet allegro\listeacteurs.h
+	"acteurs.h"
+
+1585479929 c:\users\sudav\desktop\allegro 2.0\projet allegro\listeennemis.h
+	"ennemi.h"
+
+1586099534 c:\users\sudav\desktop\allegro 2.0\projet allegro\ennemi.h
+	<allegro.h>
+
+1585652264 source:c:\users\sudav\desktop\allegro 2.0\projet allegro\defense.c
+	"defense.h"
+	"utilitaire.h"
+
+1585651278 c:\users\sudav\desktop\allegro 2.0\projet allegro\defense.h
+	"listeActeurs.h"
+	<allegro.h>
+
+1585654372 source:c:\users\sudav\desktop\allegro 2.0\projet allegro\ennemi.c
+	"ennemi.h"
+	"utilitaire.h"
+
+1585585175 source:c:\users\sudav\desktop\allegro 2.0\projet allegro\listeacteurs.c
+	"listeActeurs.h"
+	"utilitaire.h"
+
+1586099662 source:c:\users\sudav\desktop\allegro 2.0\projet allegro\listeennemis.c
+	"listeEnnemis.h"
+	"utilitaire.h"
+
+1585585175 source:c:\users\sudav\desktop\allegro 2.0\projet allegro\utilitaire.c
+	<stdlib.h>
+	"utilitaire.h"
+
+1586099392 source:c:\users\sudav\desktop\allegro 2.0\projet allegro\main.c
+	<allegro.h>
+	<time.h>
+	"ennemi.h"
+	"listeEnnemis.h"
+	"acteurs.h"
+	"listeActeurs.h"
+	"defense.h"
+	"collision.h"
+	"utilitaire.h"
+
+1585653685 source:c:\users\sudav\desktop\projet allegro test\acteurs.c
+	"acteurs.h"
+	"utilitaire.h"
+
+1585653378 c:\users\sudav\desktop\projet allegro test\acteurs.h
+	<allegro.h>
+
+1586189433 c:\users\sudav\desktop\projet allegro test\utilitaire.h
+	<allegro.h>
+
+1586181890 source:c:\users\sudav\desktop\projet allegro test\collision.c
+	"collision.h"
+	"utilitaire.h"
+
+1585576188 c:\users\sudav\desktop\projet allegro test\collision.h
+	"listeActeurs.h"
+	"listeEnnemis.h"
+
+1585574497 c:\users\sudav\desktop\projet allegro test\listeacteurs.h
+	"acteurs.h"
+
+1588354864 c:\users\sudav\desktop\projet allegro test\listeennemis.h
+	"ennemi.h"
+
+1588354864 c:\users\sudav\desktop\projet allegro test\ennemi.h
+	<allegro.h>
+
+1587490387 source:c:\users\sudav\desktop\projet allegro test\defense.c
+	"defense.h"
+	"utilitaire.h"
+
+1586365245 c:\users\sudav\desktop\projet allegro test\defense.h
+	"listeActeurs.h"
+	<allegro.h>
+
+1588355352 source:c:\users\sudav\desktop\projet allegro test\ennemi.c
+	<stdio.h>
+	"ennemi.h"
+	"utilitaire.h"
+
+1585585175 source:c:\users\sudav\desktop\projet allegro test\listeacteurs.c
+	"listeActeurs.h"
+	"utilitaire.h"
+
+1588354864 source:c:\users\sudav\desktop\projet allegro test\listeennemis.c
+	"listeEnnemis.h"
+	"utilitaire.h"
+
+1586444634 source:c:\users\sudav\desktop\projet allegro test\utilitaire.c
+	<stdlib.h>
+	"utilitaire.h"
+
+1588355157 source:c:\users\sudav\desktop\projet allegro test\main.c
+	<allegro.h>
+	<time.h>
+	"ennemi.h"
+	"listeEnnemis.h"
+	"acteurs.h"
+	"listeActeurs.h"
+	"defense.h"
+	"collision.h"
+	"utilitaire.h"
+	"terrain.h"
+
+1586962961 c:\users\sudav\desktop\projet allegro test\terrain.h
+	<allegro.h>
+
+1587490291 source:c:\users\sudav\desktop\projet allegro test\terrain.c
+	"terrain.h"
+	"utilitaire.h"
+
+1586800853 c:\users\sudav\desktop\projet allegro\terrain.h
+	<allegro.h>
+
+1586800856 source:c:\users\sudav\desktop\projet allegro\terrain.c
+	"terrain.h"
+	"utilitaire.h"
+
+1588257511 source:c:\users\sudav\desktop\projet allegro test\sauvegarde.c
+	<stdio.h>
+	<stdlib.h>
+	"sauvergarde.h"
+	"utilitaire.h"
+	<string.h>
+
+1588103119 c:\users\sudav\desktop\projet allegro test\sauvergarde.h
+	<allegro.h>
+
+1585653685 source:c:\users\sudav\desktop\info\projet allegro\acteurs.c
+	"acteurs.h"
+	"utilitaire.h"
+
+1585653378 c:\users\sudav\desktop\info\projet allegro\acteurs.h
+	<allegro.h>
+
+1586189433 c:\users\sudav\desktop\info\projet allegro\utilitaire.h
+	<allegro.h>
+
+1586181890 source:c:\users\sudav\desktop\info\projet allegro\collision.c
+	"collision.h"
+	"utilitaire.h"
+
+1585576188 c:\users\sudav\desktop\info\projet allegro\collision.h
+	"listeActeurs.h"
+	"listeEnnemis.h"
+
+1585574497 c:\users\sudav\desktop\info\projet allegro\listeacteurs.h
+	"acteurs.h"
+
+1588354864 c:\users\sudav\desktop\info\projet allegro\listeennemis.h
+	"ennemi.h"
+
+1588354864 c:\users\sudav\desktop\info\projet allegro\ennemi.h
+	<allegro.h>
+
+1587490387 source:c:\users\sudav\desktop\info\projet allegro\defense.c
+	"defense.h"
+	"utilitaire.h"
+
+1586365245 c:\users\sudav\desktop\info\projet allegro\defense.h
+	"listeActeurs.h"
+	<allegro.h>
+
+1588355352 source:c:\users\sudav\desktop\info\projet allegro\ennemi.c
+	<stdio.h>
+	"ennemi.h"
+	"utilitaire.h"
+
+1585585175 source:c:\users\sudav\desktop\info\projet allegro\listeacteurs.c
+	"listeActeurs.h"
+	"utilitaire.h"
+
+1588354864 source:c:\users\sudav\desktop\info\projet allegro\listeennemis.c
+	"listeEnnemis.h"
+	"utilitaire.h"
+
+1588355361 source:c:\users\sudav\desktop\info\projet allegro\main.c
+	<allegro.h>
+	<time.h>
+	"ennemi.h"
+	"listeEnnemis.h"
+	"acteurs.h"
+	"listeActeurs.h"
+	"defense.h"
+	"collision.h"
+	"utilitaire.h"
+	"terrain.h"
+
+1586962961 c:\users\sudav\desktop\info\projet allegro\terrain.h
+	<allegro.h>
+
+1588257511 source:c:\users\sudav\desktop\info\projet allegro\sauvegarde.c
+	<stdio.h>
+	<stdlib.h>
+	"sauvergarde.h"
+	"utilitaire.h"
+	<string.h>
+
+1588103119 c:\users\sudav\desktop\info\projet allegro\sauvergarde.h
+	<allegro.h>
+
+1587490291 source:c:\users\sudav\desktop\info\projet allegro\terrain.c
+	"terrain.h"
+	"utilitaire.h"
+
+1586444634 source:c:\users\sudav\desktop\info\projet allegro\utilitaire.c
+	<stdlib.h>
+	"utilitaire.h"
+
